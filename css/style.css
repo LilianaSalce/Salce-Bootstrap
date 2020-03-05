@@ -1,6 +1,11 @@
-div.nav-link{
-color:light blue;
-}
 body{
   background-color:red;
+}
+h1{
+  font-size: 50px;
+  font-style:Sans-serif;
+}
+h2{
+  font-size:35px;
+  font-style:Sans-serif;
 }
